@@ -1,0 +1,23 @@
+.bg-doc {
+    background-image: url("./bgDoc.jpg");
+    background-repeat: no-repeat;
+    color: #ffffff;
+    text-align: center;
+    background-size: cover;
+    height: 900px;
+}
+
+.bg-doc h1 {
+    
+    padding-top: 400px;
+    font-size: 40px;
+    cursor: pointer;
+}
+
+.bg-doc h1 a:hover {
+    color: #2cc4ee;
+}
+
+.bg-doc h1 a {
+    color : rgb(29, 26, 26);
+}
